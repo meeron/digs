@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+/*.sqlite3
+/pip-selfcheck.json
